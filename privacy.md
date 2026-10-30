@@ -36,7 +36,7 @@ When you add a person, the app saves:
 
 The app also saves:
 
-- the place you choose for the daily panchāṅga
+- the place you choose for the daily panchanga
 - your calculation and display settings
 - your thumbs-up/down votes on "My Day" (if you give any)
 - the 24-hour unlocks you earned by watching an ad.
@@ -76,7 +76,7 @@ Data leaves your phone only in these cases:
 
 The app includes the **Google Mobile Ads SDK** (Google AdMob).
 
-The app shows banner, full-screen and rewarded ads through the Google Mobile Ads SDK and may contact Google when the app starts. Rewarded ads are optional: you can choose to watch one to unlock a premium report for 24 hours. To serve and measure ads and to prevent fraud, the SDK collects the data listed below (including your advertising ID, IP address, the approximate location Google infers from it, and how you interact with the app and its ads) and sends it to Google. Your birth details, names and places are never shared with Google. In the EEA, UK and Switzerland, Google asks for your consent, and you can change it under Settings → Ad Privacy Choices. Everywhere, you can reset or delete your advertising ID in your phone's settings.
+The app shows banner, full-screen and rewarded ads through the Google Mobile Ads SDK and may contact Google when the app starts. Rewarded ads are optional: you can choose to watch one to unlock a premium report for 24 hours. To serve and measure ads and to prevent fraud, the SDK collects the data listed below (including your advertising ID, IP address, the approximate location Google infers from it, and how you interact with the app and its ads) and sends it to Google. Your birth details, names and places are never shared with Google. In the EEA, UK and Switzerland, Google asks for your consent, and you can change it under Settings, then Ad Privacy Choices. Everywhere, you can reset or delete your advertising ID in your phone's settings.
 
 The SDK and the Android advertising ID
 (`AD_ID`) permission are still part of the app, so its Google Play listing says "Contains ads".
@@ -102,10 +102,10 @@ passes only the ad slot's identifier. Google's SDK adds the device data listed a
   In the EEA, UK and Switzerland, you can refuse consent and still use the app.
 
 - In the EEA, UK and Switzerland, Google asks for your consent for advertising. You can change your
-  answer at any time under **Settings → Ad Privacy Choices**.
+  answer at any time under **Settings, then Ad Privacy Choices**.
 
 - You can reset or delete your advertising ID in your phone's settings (on most phones:
-  **Settings → Google → Ads** or **Settings → Privacy → Ads**).
+  **Settings, then Google, then Ads** or **Settings, then Privacy, then Ads**).
 
 ## 4. Notifications
 
@@ -131,8 +131,8 @@ advertising, analytics and fraud prevention.
 
 - **Delete one person:** open the person and choose Delete.
 
-- **Delete everything:** clear the app's storage in Android settings (**Settings → Apps →
-  Jyovana → Storage → Clear storage**), or uninstall the app. This removes every person,
+- **Delete everything:** clear the app's storage in Android settings (**Settings, then Apps →
+  Jyovana, then Storage, then Clear storage**), or uninstall the app. This removes every person,
   setting, vote and unlock on the phone. If Android backup is on for your phone, a backup copy may
   remain in your Google account (section 2, point 3).
 
@@ -145,11 +145,11 @@ You can save birth details of family members, including children, for your own p
 
 ## 9. Your rights
 
-**India (Digital Personal Data Protection Act, 2023):** You have the right to (a) a summary of your personal data and how it is processed, (b) correction, completion, updating and erasure, (c) grievance redress, and (d) nominating another person to exercise these rights if you die or become incapable. Because the app keeps your birth details only on your phone and we never receive them, you can use most of these rights directly in the app: view or edit a person, delete a person, or clear the app's storage (section 7). For anything else, including data the ads SDK sends to Google, write to our Grievance Officer (section 12). Where you gave consent, you can withdraw it as easily as you gave it. In the EEA, UK and Switzerland, use Settings → Ad Privacy Choices. Everywhere, you can choose not to watch rewarded ads, reset or delete your advertising ID, or uninstall the app. Withdrawal does not affect processing that happened before it. We will reply within 10 working days (see section 12). If you are not satisfied with our response, you may complain to the Data Protection Board of India under the Digital Personal Data Protection Act, 2023, after first using our grievance contact as that Act requires.
+**India (Digital Personal Data Protection Act, 2023):** You have the right to (a) a summary of your personal data and how it is processed, (b) correction, completion, updating and erasure, (c) grievance redress, and (d) nominating another person to exercise these rights if you die or become incapable. Because the app keeps your birth details only on your phone and we never receive them, you can use most of these rights directly in the app: view or edit a person, delete a person, or clear the app's storage (section 7). For anything else, including data the ads SDK sends to Google, write to our Grievance Officer (section 12). Where you gave consent, you can withdraw it as easily as you gave it. In the EEA, UK and Switzerland, use Settings, then Ad Privacy Choices. Everywhere, you can choose not to watch rewarded ads, reset or delete your advertising ID, or uninstall the app. Withdrawal does not affect processing that happened before it. We will reply within 10 working days (see section 12). If you are not satisfied with our response, you may complain to the Data Protection Board of India under the Digital Personal Data Protection Act, 2023, after first using our grievance contact as that Act requires.
 
 **European Economic Area, United Kingdom and Switzerland (GDPR, UK GDPR and Swiss FADP):** we do not receive your personal data.
 Google asks for your consent for advertising (section 3). You can withdraw or change your consent at any time
-under Settings → Ad Privacy Choices. For data Google holds, you can contact Google
+under Settings, then Ad Privacy Choices. For data Google holds, you can contact Google
 using the link in section 3.
 
 ## 10. Security

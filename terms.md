@@ -14,7 +14,7 @@ These Terms are an agreement between you and **Harsha Bharadwaj, an individual t
 You must be at least 18 years old and able to enter into a binding contract under the Indian Contract Act, 1872. If you are under 18, do not use the App.
 
 ## 2. What the App does
-The App calculates Vedic astrology charts, the daily panchāṅga, "My Day", Health outlook, Career and related readings. It does this from the birth details you enter, using traditional rules. All calculations run on your device.
+The App calculates Vedic astrology charts, the daily panchanga, "My Day", Health outlook, Career and related readings. It does this from the birth details you enter, using traditional rules. All calculations run on your device.
 
 ## 3. IMPORTANT DISCLAIMER: for culture and learning only
 3.1 Astrology is a traditional belief system. It is not a science that has been proven to predict events. All readings, predictions and suggestions in the App are **for culture and learning only**.
