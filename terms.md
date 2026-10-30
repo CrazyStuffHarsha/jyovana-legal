@@ -43,18 +43,8 @@ We try to calculate accurately. However, the App is provided **"as is" and "as a
 ## 6. Ads and unlocks
 The App shows ads served by Google, including banner and full-screen ads. Some reports can be unlocked for 24 hours by choosing to watch a rewarded ad. Unlocks have no cash value and cannot be transferred.
 
-<!-- ADVOCATE REVIEW: purchases not yet in the app build -->
-## 6A. Purchases
-6A.1 **Price.** The price of a purchase is the price shown in the Google Play Store (or the Apple App Store, when the App is available there) at the time you buy.
-
-6A.2 **Refunds.** Refunds follow Google Play's refund policy. This does not affect your rights under Indian consumer law, including the Consumer Protection Act, 2019.
-
-6A.3 **One account.** One purchase covers one Google account. If you move to a new phone and sign in with the same Google account, you can restore your purchase there.
-
-6A.4 **If the App is discontinued.** <!-- ADVOCATE REVIEW: discontinuation sentence -->If we stop offering the App, your unlock will keep working on your phone, but we do not promise any future updates.
-
-6A.5 **Refund and cancellation.** A purchase is complete once the store confirms it, and it cannot be cancelled from inside the App. To ask for a refund, use Google Play's refund process or write to us at atharvaapps17@gmail.com. If you paid and the unlock does not work, and restoring the purchase does not fix it, write to us and we will help you.
-<!-- ADVOCATE REVIEW: purchases not yet in the app build -->
+## 6A. Price
+The App is free during the beta. If we add paid features later, we will update these Terms and show the price in the app store before you pay.
 
 ## 7. Intellectual property
 The App, its design, text and software belong to us or our licensors, except open-source components, which are covered by their own licences. Place data comes from GeoNames under CC BY 4.0, as noted in Settings. A list of open-source licences is available on request at atharvaapps17@gmail.com. We grant you a personal, non-exclusive, non-transferable, revocable licence to use the App on devices you own or control.

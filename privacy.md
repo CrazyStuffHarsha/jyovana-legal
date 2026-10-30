@@ -125,14 +125,6 @@ birth details, names and places never leave your phone and are not shared with a
 data in section 3 is shared with Google**, through the Google Mobile Ads SDK in the app, for
 advertising, analytics and fraud prevention.
 
-<!-- ADVOCATE REVIEW: purchases not yet in the app build -->
-## 6A. Purchases
-
-If you buy something in the app, the payment goes through Google Play billing. Apple's App Store billing will be used when the app comes to iPhone. We never see your card, UPI or other payment details. Google handles the payment under its own privacy policy.
-
-The app stores only the purchase receipt and the unlock status, and it keeps them on your phone. We do not keep them on a server.
-<!-- ADVOCATE REVIEW: purchases not yet in the app build -->
-
 ## 7. How long data is kept and how to delete it
 
 - The data the app keeps (section 1) stays on your phone until you delete it. Ad data the SDK sends to Google (section 3) is held by Google, as described below.
