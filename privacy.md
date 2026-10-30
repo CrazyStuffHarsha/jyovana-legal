@@ -131,7 +131,7 @@ advertising, analytics and fraud prevention.
 
 - **Delete one person:** open the person and choose Delete.
 
-- **Delete everything:** clear the app's storage in Android settings (**Settings, then Apps →
+- **Delete everything:** clear the app's storage in Android settings (**Settings, then Apps, then
   Jyovana, then Storage, then Clear storage**), or uninstall the app. This removes every person,
   setting, vote and unlock on the phone. If Android backup is on for your phone, a backup copy may
   remain in your Google account (section 2, point 3).
