@@ -6,7 +6,7 @@ permalink: /privacy
 
 Jyovana was earlier called Jyotirmala. Only the name has changed.
 
-**Version 1.0** · **Effective date: [publish date]** · **Last updated: 30 October 2026**
+**Version 1.1** · **Effective date: [publish date]** · **Last updated: 30 October 2026**
 
 This policy covers the Android app **Jyovana** (package `com.atharvaapps.jyovana`). It is published by
 Harsha Bharadwaj, an individual developer trading as Atharva Apps ("Atharva Apps", "we", "us").

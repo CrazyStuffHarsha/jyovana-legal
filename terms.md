@@ -6,7 +6,7 @@ permalink: /terms
 
 Jyovana was earlier called Jyotirmala. Only the name has changed.
 
-**Effective date: [publish date]** · **Last updated: 30 October 2026** · **Version 1.0**
+**Effective date: [publish date]** · **Last updated: 30 October 2026** · **Version 1.1**
 
 These Terms are an agreement between you and **Harsha Bharadwaj, an individual trading as Atharva Apps** ("we", "us"), of H.No 5-49/1, S R Naik Nagar, IDA Jeedimetla, Quthbullapur, Hyderabad 500055, Telangana, India. They cover your use of the Jyovana app (the "App"). By installing or using the App, you agree to these Terms and to our Privacy Policy at <https://crazystuffharsha.github.io/jyovana-legal/privacy>. These Terms are an electronic record under the Information Technology Act, 2000, and do not need a physical or digital signature.
 
