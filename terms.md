@@ -2,11 +2,13 @@
 title: Terms of Use
 permalink: /terms
 ---
-# Jyotirmala: Terms of Use and Disclaimer
+# Jyovana: Terms of Use and Disclaimer
 
-**Effective date: 15 October 2026** · **Version 1.0**
+Jyovana was earlier called Jyotirmala. Only the name has changed.
 
-These Terms are an agreement between you and **Harsha Bharadwaj, an individual trading as Atharva Apps** ("we", "us"), of H.No 5-49/1, S R Naik Nagar, IDA Jeedimetla, Quthbullapur, Hyderabad 500055, Telangana, India. They cover your use of the Jyotirmala app (the "App"). By installing or using the App, you agree to these Terms and to our Privacy Policy at <https://crazystuffharsha.github.io/jyotirmala-legal/privacy>. These Terms are an electronic record under the Information Technology Act, 2000, and do not need a physical or digital signature.
+**Effective date: [publish date]** · **Last updated: 30 October 2026** · **Version 1.0**
+
+These Terms are an agreement between you and **Harsha Bharadwaj, an individual trading as Atharva Apps** ("we", "us"), of H.No 5-49/1, S R Naik Nagar, IDA Jeedimetla, Quthbullapur, Hyderabad 500055, Telangana, India. They cover your use of the Jyovana app (the "App"). By installing or using the App, you agree to these Terms and to our Privacy Policy at <https://crazystuffharsha.github.io/jyovana-legal/privacy>. These Terms are an electronic record under the Information Technology Act, 2000, and do not need a physical or digital signature.
 
 ## 1. Eligibility
 You must be at least 18 years old and able to enter into a binding contract under the Indian Contract Act, 1872. If you are under 18, do not use the App.
@@ -14,8 +16,8 @@ You must be at least 18 years old and able to enter into a binding contract unde
 ## 2. What the App does
 The App calculates Vedic astrology charts, the daily panchāṅga, "My Day", Health outlook, Career and related readings. It does this from the birth details you enter, using traditional rules. All calculations run on your device.
 
-## 3. IMPORTANT DISCLAIMER: guidance and entertainment only
-3.1 Astrology is a traditional belief system. It is not a science that has been proven to predict events. All readings, predictions and suggestions in the App are for **general guidance, cultural interest and entertainment only**.
+## 3. IMPORTANT DISCLAIMER: for culture and learning only
+3.1 Astrology is a traditional belief system. It is not a science that has been proven to predict events. All readings, predictions and suggestions in the App are **for culture and learning only**.
 
 3.2 **Not professional advice.** Nothing in the App is medical, health, psychological, legal, financial, investment, tax, career or matrimonial advice. It is not a substitute for such advice.
 - **Health outlook:** it does not diagnose, treat, cure or prevent any disease or condition. Always consult a qualified doctor about any health concern. Never delay or ignore medical advice because of anything in the App. In an emergency, call 112. If you are in distress or thinking about harming yourself, call Tele-MANAS (free, 24×7) on 14416 or 1-800-891-4416. The App never suggests that a mantra, gemstone, ritual or other remedy can diagnose, treat, cure or prevent any illness.
@@ -40,6 +42,19 @@ We try to calculate accurately. However, the App is provided **"as is" and "as a
 
 ## 6. Ads and unlocks
 The App shows ads served by Google, including banner and full-screen ads. Some reports can be unlocked for 24 hours by choosing to watch a rewarded ad. Unlocks have no cash value and cannot be transferred.
+
+<!-- ADVOCATE REVIEW: purchases not yet in the app build -->
+## 6A. Purchases
+6A.1 **Price.** The price of a purchase is the price shown in the Google Play Store (or the Apple App Store, when the App is available there) at the time you buy.
+
+6A.2 **Refunds.** Refunds follow Google Play's refund policy. This does not affect your rights under Indian consumer law, including the Consumer Protection Act, 2019.
+
+6A.3 **One account.** One purchase covers one Google account. If you move to a new phone and sign in with the same Google account, you can restore your purchase there.
+
+6A.4 **If the App is discontinued.** <!-- ADVOCATE REVIEW: discontinuation sentence -->If we stop offering the App, your unlock will keep working on your phone, but we do not promise any future updates.
+
+6A.5 **Refund and cancellation.** A purchase is complete once the store confirms it, and it cannot be cancelled from inside the App. To ask for a refund, use Google Play's refund process or write to us at atharvaapps17@gmail.com. If you paid and the unlock does not work, and restoring the purchase does not fix it, write to us and we will help you.
+<!-- ADVOCATE REVIEW: purchases not yet in the app build -->
 
 ## 7. Intellectual property
 The App, its design, text and software belong to us or our licensors, except open-source components, which are covered by their own licences. Place data comes from GeoNames under CC BY 4.0, as noted in Settings. A list of open-source licences is available on request at atharvaapps17@gmail.com. We grant you a personal, non-exclusive, non-transferable, revocable licence to use the App on devices you own or control.

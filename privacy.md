@@ -2,11 +2,13 @@
 title: Privacy Policy
 permalink: /privacy
 ---
-# Privacy Policy for Jyotirmala
+# Privacy Policy for Jyovana
 
-**Version 1.0** · **Effective date: 15 October 2026**
+Jyovana was earlier called Jyotirmala. Only the name has changed.
 
-This policy covers the Android app **Jyotirmala** (package `com.atharvaapps.jyotirmala`). It is published by
+**Version 1.0** · **Effective date: [publish date]** · **Last updated: 30 October 2026**
+
+This policy covers the Android app **Jyovana** (package `com.atharvaapps.jyovana`). It is published by
 Harsha Bharadwaj, an individual developer trading as Atharva Apps ("Atharva Apps", "we", "us").
 
 ## The short version
@@ -27,16 +29,16 @@ Harsha Bharadwaj, an individual developer trading as Atharva Apps ("Atharva Apps
 
 When you add a person, the app saves:
 
-- name and gender;
-- date and time of birth;
-- place of birth (name, latitude/longitude and time zone);
+- name and gender
+- date and time of birth
+- place of birth (name, latitude/longitude and time zone)
 - how the person relates to you (me, spouse, child or other), and up to three "My Day" focus areas.
 
 The app also saves:
 
-- the place you choose for the daily panchāṅga;
-- your calculation and display settings;
-- your thumbs-up/down votes on "My Day" (if you give any);
+- the place you choose for the daily panchāṅga
+- your calculation and display settings
+- your thumbs-up/down votes on "My Day" (if you give any)
 - the 24-hour unlocks you earned by watching an ad.
 
 All of this sits in the app's private storage on your phone. Other apps cannot read it, because
@@ -81,9 +83,9 @@ The SDK and the Android advertising ID
 
 Google says the SDK collects, by default:
 
-- your device's **IP address**. Google may use it to infer your approximate location;
-- **app interactions**, such as app launches, taps and video views;
-- **diagnostic information**, such as app launch time, hangs and energy use;
+- your device's **IP address**. Google may use it to infer your approximate location
+- **app interactions**, such as app launches, taps and video views
+- **diagnostic information**, such as app launch time, hangs and energy use
 - **device and account identifiers**: the Android **advertising ID**, the **app set ID** and, if
   applicable, identifiers related to Google accounts signed in on the device.
 
@@ -123,6 +125,14 @@ birth details, names and places never leave your phone and are not shared with a
 data in section 3 is shared with Google**, through the Google Mobile Ads SDK in the app, for
 advertising, analytics and fraud prevention.
 
+<!-- ADVOCATE REVIEW: purchases not yet in the app build -->
+## 6A. Purchases
+
+If you buy something in the app, the payment goes through Google Play billing. Apple's App Store billing will be used when the app comes to iPhone. We never see your card, UPI or other payment details. Google handles the payment under its own privacy policy.
+
+The app stores only the purchase receipt and the unlock status, and it keeps them on your phone. We do not keep them on a server.
+<!-- ADVOCATE REVIEW: purchases not yet in the app build -->
+
 ## 7. How long data is kept and how to delete it
 
 - The data the app keeps (section 1) stays on your phone until you delete it. Ad data the SDK sends to Google (section 3) is held by Google, as described below.
@@ -130,7 +140,7 @@ advertising, analytics and fraud prevention.
 - **Delete one person:** open the person and choose Delete.
 
 - **Delete everything:** clear the app's storage in Android settings (**Settings → Apps →
-  Jyotirmala → Storage → Clear storage**), or uninstall the app. This removes every person,
+  Jyovana → Storage → Clear storage**), or uninstall the app. This removes every person,
   setting, vote and unlock on the phone. If Android backup is on for your phone, a backup copy may
   remain in your Google account (section 2, point 3).
 
@@ -138,14 +148,14 @@ advertising, analytics and fraud prevention.
   advertising ID as described in section 3.
 
 ## 8. Children
-Jyotirmala is meant only for adults (18 and over). It is not directed at children, and we do not knowingly allow anyone under 18 to use it. If you are under 18, please do not use the app. If you are a parent or guardian and believe your child has used it, write to us (section 12) and we will help you remove the data from the device and explain how to ask Google to delete advertising data linked to that device. We cannot delete data held by Google ourselves.
+Jyovana is meant only for adults (18 and over). It is not directed at children, and we do not knowingly allow anyone under 18 to use it. If you are under 18, please do not use the app. If you are a parent or guardian and believe your child has used it, write to us (section 12) and we will help you remove the data from the device and explain how to ask Google to delete advertising data linked to that device. We cannot delete data held by Google ourselves.
 You can save birth details of family members, including children, for your own personal and family use. These details stay only on your phone. We never receive them, and they are never passed to the advertising SDK.
 
 ## 9. Your rights
 
 **India (Digital Personal Data Protection Act, 2023):** You have the right to (a) a summary of your personal data and how it is processed, (b) correction, completion, updating and erasure, (c) grievance redress, and (d) nominating another person to exercise these rights if you die or become incapable. Because the app keeps your birth details only on your phone and we never receive them, you can use most of these rights directly in the app: view or edit a person, delete a person, or clear the app's storage (section 7). For anything else, including data the ads SDK sends to Google, write to our Grievance Officer (section 12). Where you gave consent, you can withdraw it as easily as you gave it. In the EEA, UK and Switzerland, use Settings → Ad Privacy Choices. Everywhere, you can choose not to watch rewarded ads, reset or delete your advertising ID, or uninstall the app. Withdrawal does not affect processing that happened before it. We will reply within 10 working days (see section 12). If you are not satisfied with our response, you may complain to the Data Protection Board of India under the Digital Personal Data Protection Act, 2023, after first using our grievance contact as that Act requires.
 
-**European Economic Area, United Kingdom and Switzerland (GDPR):** we do not receive your personal data.
+**European Economic Area, United Kingdom and Switzerland (GDPR, UK GDPR and Swiss FADP):** we do not receive your personal data.
 Google asks for your consent for advertising (section 3). You can withdraw or change your consent at any time
 under Settings → Ad Privacy Choices. For data Google holds, you can contact Google
 using the link in section 3.
@@ -164,8 +174,8 @@ update this page and change the effective date before that version is released.
 ## 12. Contact and grievance officer
 - **Data fiduciary / publisher:** Harsha Bharadwaj, an individual trading as Atharva Apps, H.No 5-49/1, S R Naik Nagar, IDA Jeedimetla, Quthbullapur, Hyderabad 500055, Telangana, India.
 - **Email:** atharvaapps17@gmail.com
-- **Grievance Officer (India):** Harini, atharvaapps17@gmail.com. Please put "Privacy grievance – Jyotirmala" in the subject line.
+- **Grievance Officer (India):** Harini, atharvaapps17@gmail.com. Please put "Privacy grievance: Jyovana" in the subject line.
 - We acknowledge every complaint within 48 hours and resolve it within **10 working days** of receipt. If we need more time, we will tell you why and when you can expect a reply.
 - **Governing law and courts:** This policy is governed by the laws of India. Subject to any rights you have under the consumer and data-protection laws of your country, the courts at Hyderabad, Telangana have jurisdiction.
 
-Terms of Use: <https://crazystuffharsha.github.io/jyotirmala-legal/terms>
+Terms of Use: <https://crazystuffharsha.github.io/jyovana-legal/terms>
