@@ -6,7 +6,7 @@ permalink: /privacy
 
 Jyovana was earlier called Jyotirmala. Only the name has changed.
 
-**Version 1.1** · **Effective date: [publish date]** · **Last updated: 30 October 2026**
+**Version 1.1** · **Effective date: 11 November 2026** · **Last updated: 30 October 2026**
 
 This policy covers the Android app **Jyovana** (package `com.atharvaapps.jyovana`). It is published by
 Harsha Bharadwaj, an individual developer trading as Atharva Apps ("Atharva Apps", "we", "us").
@@ -66,9 +66,9 @@ Data leaves your phone only in these cases:
    saved people and votes. You choose where it goes (for example email, a chat app or a drive), and
    that app's own privacy policy then applies.
 
-3. **Android backup.** Depending on your phone's settings, Android may copy app data to your
-   Google account or to a new phone during transfer. You can turn this off in your phone's backup
-   settings.
+3. **Android backup.** The app opts out of Android backup. The data it saves on your phone is not
+   included in your phone's Google backups, and it is not copied to a new phone during
+   device-to-device transfer.
 
 4. **Links you open.** For example, the licence link in Settings opens in your browser.
 
@@ -133,8 +133,8 @@ advertising, analytics and fraud prevention.
 
 - **Delete everything:** clear the app's storage in Android settings (**Settings, then Apps, then
   Jyovana, then Storage, then Clear storage**), or uninstall the app. This removes every person,
-  setting, vote and unlock on the phone. If Android backup is on for your phone, a backup copy may
-  remain in your Google account (section 2, point 3).
+  setting, vote and unlock on the phone. Because the app opts out of Android backup, no backup copy
+  of this data remains in your Google account (section 2, point 3).
 
 - Data held by Google for advertising follows Google's retention rules. You can reset your
   advertising ID as described in section 3.
