@@ -42,13 +42,13 @@ All of this sits in the app's private storage on your phone. Other apps cannot r
 Android keeps each app's storage separate. The app does not add its own encryption on top of
 Android's.
 
-Charts and readings are calculated on your phone each time you open them. They are not saved.
+Charts and readings are calculated on your phone. Some results may be kept on your phone so they load faster. They never leave your phone, and "Delete all my data" removes them.
 
 The app finds places from a list built into the app, or from coordinates you type. It does not
 send your search to any service.
 
 ## 1A. Details of other people you add
-If you save another person's birth details (for example, a spouse, child, parent or friend), please do so only with their permission, or as their parent or guardian. These details are kept only on your phone for your personal and family use. We do not receive them. You are responsible for sharing them only as that person would expect, including when you use "Export people".
+If you save another person's birth details (for example, a spouse, child, parent or friend), please do so only with their permission, or as their parent or guardian. These details are kept only on your phone for your personal and family use. We do not receive them. You are responsible for sharing them only as that person would expect, including when you use "Save a backup file".
 
 ## 2. What leaves your phone
 
@@ -59,7 +59,7 @@ Data leaves your phone only in these cases:
 
 1. **Ads.** This version of the app shows no ads and has no advertising SDK. See section 3.
 
-2. **When you export.** "Export people (JSON)" in Settings opens Android's share menu with your
+2. **When you export.** "Save a backup file" in Settings opens Android's share menu with your
    saved people and votes. You choose where it goes (for example email, a chat app or a drive), and
    that app's own privacy policy then applies.
 
