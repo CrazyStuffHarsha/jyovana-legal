@@ -8,7 +8,7 @@ Jyovana was earlier called Jyotirmala. Only the name has changed.
 
 **Effective date: 11 November 2026** · **Last updated: 10 November 2026** · **Version 1.1**
 
-These Terms are an agreement between you and **Harsha Bharadwaj, an individual trading as Atharva Apps** ("we", "us"), of Hyderabad, Telangana, India (email: atharvaapps17@gmail.com; our full postal address is available on request by email). They cover your use of the Jyovana app (the "App"). By installing or using the App, you agree to these Terms and to our Privacy Policy at <https://crazystuffharsha.github.io/jyovana-legal/privacy>. These Terms are an electronic record under the Information Technology Act, 2000, and do not need a physical or digital signature.
+These Terms are an agreement between you and **Harsha Bharadwaj, an individual trading as Atharva Apps** ("we", "us"), of Hyderabad, Telangana, India (email: atharvaapps17@gmail.com, postal address on request). They cover your use of the Jyovana app (the "App"). By installing or using the App, you agree to these Terms and to our Privacy Policy at <https://crazystuffharsha.github.io/jyovana-legal/privacy>. These Terms are an electronic record under the Information Technology Act, 2000, and do not need a physical or digital signature.
 
 ## 1. Eligibility
 You must be at least 18 years old and able to enter into a binding contract under the Indian Contract Act, 1872. If you are under 18, do not use the App.
@@ -63,7 +63,7 @@ If you misuse another person's personal data through the App, or use the App unl
 We may update the App or these Terms. We will show material changes in the App before they take effect. You may stop using the App at any time by uninstalling it. We may stop offering the App, or any feature of it.
 
 ## 11. Grievances and contact
-Grievance Officer: **Harini**, atharvaapps17@gmail.com. Address: as above. We acknowledge complaints within 48 hours and resolve them within **10 working days** of receipt.
+Grievance Officer: **Harini**, atharvaapps17@gmail.com. Postal address: on request by email. We acknowledge complaints within 48 hours and resolve them within **10 working days** of receipt.
 
 ## 12. Governing law and disputes
 These Terms are governed by the laws of India. Subject to your rights under the Consumer Protection Act, 2019, including your right to file a consumer complaint where you live or work, the courts at **Hyderabad, Telangana** have jurisdiction over any other dispute about these Terms.

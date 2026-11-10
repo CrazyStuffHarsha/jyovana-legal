@@ -115,7 +115,7 @@ If the app starts collecting anything new (for example sign-in, payments or a se
 update this page and change the effective date before that version is released.
 
 ## 12. Contact and grievance officer
-- **Data fiduciary / publisher:** Harsha Bharadwaj, an individual trading as Atharva Apps, Hyderabad, Telangana, India. Email: atharvaapps17@gmail.com. Our full postal address is available on request by email.
+- **Data fiduciary / publisher:** Harsha Bharadwaj, an individual trading as Atharva Apps, Hyderabad, Telangana, India. Email: atharvaapps17@gmail.com. Our postal address is available on request by email.
 - **Email:** atharvaapps17@gmail.com
 - **Grievance Officer (India):** Harini, atharvaapps17@gmail.com. Please put "Privacy grievance: Jyovana" in the subject line.
 - We acknowledge every complaint within 48 hours and resolve it within **10 working days** of receipt. If we need more time, we will tell you why and when you can expect a reply.
