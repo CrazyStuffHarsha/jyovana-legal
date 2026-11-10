@@ -8,7 +8,7 @@ Jyovana was earlier called Jyotirmala. Only the name has changed.
 
 **Effective date: 11 November 2026** · **Last updated: 10 November 2026** · **Version 1.1**
 
-These Terms are an agreement between you and **Harsha Bharadwaj, an individual trading as Atharva Apps** ("we", "us"), of H.No 5-49/1, S R Naik Nagar, IDA Jeedimetla, Quthbullapur, Hyderabad 500055, Telangana, India. They cover your use of the Jyovana app (the "App"). By installing or using the App, you agree to these Terms and to our Privacy Policy at <https://crazystuffharsha.github.io/jyovana-legal/privacy>. These Terms are an electronic record under the Information Technology Act, 2000, and do not need a physical or digital signature.
+These Terms are an agreement between you and **Harsha Bharadwaj, an individual trading as Atharva Apps** ("we", "us"), of Hyderabad, Telangana, India (email: atharvaapps17@gmail.com; our full postal address is available on request by email). They cover your use of the Jyovana app (the "App"). By installing or using the App, you agree to these Terms and to our Privacy Policy at <https://crazystuffharsha.github.io/jyovana-legal/privacy>. These Terms are an electronic record under the Information Technology Act, 2000, and do not need a physical or digital signature.
 
 ## 1. Eligibility
 You must be at least 18 years old and able to enter into a binding contract under the Indian Contract Act, 1872. If you are under 18, do not use the App.
