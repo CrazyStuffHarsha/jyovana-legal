@@ -79,7 +79,7 @@ This version of the app does not send notifications and does not ask for notific
 ## 5. Permissions
 
 The app does not ask for your location permission, camera, microphone, contacts, phone or calendar.
-It does not ask for notification permission either. Internet access and the advertising-ID permission are not used by this version.
+It does not ask for notification permission either. The advertising-ID permission is not used by this version.
 
 ## 6. No analytics, no selling
 
