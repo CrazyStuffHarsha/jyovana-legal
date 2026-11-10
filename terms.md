@@ -6,7 +6,7 @@ permalink: /terms
 
 Jyovana was earlier called Jyotirmala. Only the name has changed.
 
-**Effective date: 11 November 2026** · **Last updated: 30 October 2026** · **Version 1.1**
+**Effective date: 11 November 2026** · **Last updated: 10 November 2026** · **Version 1.1**
 
 These Terms are an agreement between you and **Harsha Bharadwaj, an individual trading as Atharva Apps** ("we", "us"), of H.No 5-49/1, S R Naik Nagar, IDA Jeedimetla, Quthbullapur, Hyderabad 500055, Telangana, India. They cover your use of the Jyovana app (the "App"). By installing or using the App, you agree to these Terms and to our Privacy Policy at <https://crazystuffharsha.github.io/jyovana-legal/privacy>. These Terms are an electronic record under the Information Technology Act, 2000, and do not need a physical or digital signature.
 
@@ -41,7 +41,7 @@ We try to calculate accurately. However, the App is provided **"as is" and "as a
 5.3 Do not reverse-engineer, misuse, overload or interfere with the App or its ads, except as the law allows. Do not use the App for any unlawful purpose.
 
 ## 6. Ads and unlocks
-The App shows ads served by Google, including banner and full-screen ads. Some reports can be unlocked for 24 hours by choosing to watch a rewarded ad. Unlocks have no cash value and cannot be transferred.
+This version of the App shows no ads. If a later version adds ads or rewarded unlocks, we will update these Terms first. Unlocks will have no cash value and cannot be transferred.
 
 ## 6A. Price
 The App is free during the beta. If we add paid features later, we will update these Terms and show the price in the app store before you pay.
