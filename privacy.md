@@ -6,7 +6,7 @@ permalink: /privacy
 
 Jyovana was earlier called Jyotirmala. Only the name has changed.
 
-**Version 1.1** · **Effective date: 11 November 2026** · **Last updated: 10 November 2026**
+**Version 1.2** · **Effective date: 11 November 2026** · **Last updated: 10 November 2026**
 
 This policy covers the Android app **Jyovana** (package `com.atharvaapps.jyovana`). It is published by
 Harsha Bharadwaj, an individual developer trading as Atharva Apps ("Atharva Apps", "we", "us").
@@ -36,7 +36,6 @@ The app also saves:
 
 - the place you choose for the daily panchanga
 - your calculation and display settings
-- your thumbs-up/down votes on "My Day" (if you give any)
 
 All of this sits in the app's private storage on your phone. Other apps cannot read it, because
 Android keeps each app's storage separate. The app does not add its own encryption on top of
@@ -60,7 +59,7 @@ Data leaves your phone only in these cases:
 1. **Ads.** This version of the app shows no ads and has no advertising SDK. See section 3.
 
 2. **When you save a backup file.** "Save a backup file" in Settings opens Android's share menu with your
-   saved people and votes. You choose where it goes (for example email, a chat app or a drive), and
+   saved people. You choose where it goes (for example email, a chat app or a drive), and
    that app's own privacy policy then applies.
 
 3. **Android backup.** The app opts out of Android backup. The data it saves on your phone is not
@@ -92,7 +91,7 @@ birth details, names and places never leave your phone and are not shared with a
 
 - **Delete one person:** open the person and choose Delete.
 
-- **Delete everything:** in the app, open **Settings, then Delete all my data**. This removes every person, setting and vote saved by the app on your phone. Uninstalling the app also removes this data. Because the app opts out of Android backup, no backup copy of this data remains in your Google account (section 2, point 3). Delete all my data does not remove a backup file you saved or shared with "Save a backup file" (section 2, point 2). Delete that file yourself from wherever you saved or sent it.
+- **Delete everything:** in the app, open **Settings, then Delete all my data**. This removes every person, setting and saved result kept by the app on your phone. Earlier test versions could save My Day votes. Delete all my data also removes those. Uninstalling the app also removes this data. Because the app opts out of Android backup, no backup copy of this data remains in your Google account (section 2, point 3). Delete all my data does not remove a backup file you saved or shared with "Save a backup file" (section 2, point 2). Delete that file yourself from wherever you saved or sent it.
 
 ## 8. Children
 Jyovana is meant only for adults (18 and over). It is not directed at children, and we do not knowingly allow anyone under 18 to use it. If you are under 18, please do not use the app. If you are a parent or guardian and believe your child has used it, write to us (section 12) and we will help you remove the data from the device.
