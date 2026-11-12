@@ -91,7 +91,7 @@ birth details, names and places never leave your phone and are not shared with a
 
 - **Delete one person:** open the person and choose Delete.
 
-- **Delete everything:** in the app, open **Settings, then Delete all my data**. This removes every person, setting and saved result kept by the app on your phone. Earlier test versions could save My Day votes. Delete all my data also removes those. Uninstalling the app also removes this data. Because the app opts out of Android backup, no backup copy of this data remains in your Google account (section 2, point 3). Delete all my data does not remove a backup file you saved or shared with "Save a backup file" (section 2, point 2). Delete that file yourself from wherever you saved or sent it.
+- **Delete everything:** in the app, open **Settings, then Delete all my data**. This removes every person, setting and saved result kept by the app on your phone. Uninstalling the app also removes this data. Earlier test versions could save My Day votes. Delete all my data also removes those. Because the app opts out of Android backup, no backup copy of this data remains in your Google account (section 2, point 3). Delete all my data does not remove a backup file you saved or shared with "Save a backup file" (section 2, point 2). Delete that file yourself from wherever you saved or sent it.
 
 ## 8. Children
 Jyovana is meant only for adults (18 and over). It is not directed at children, and we do not knowingly allow anyone under 18 to use it. If you are under 18, please do not use the app. If you are a parent or guardian and believe your child has used it, write to us (section 12) and we will help you remove the data from the device.
